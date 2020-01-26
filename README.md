@@ -1,3 +1,19 @@
+# How to RUN.
+
+- Install gem
+- Install jekyll ($sudo gem install jekyll)
+- Install bundler ($sudo gem install bundler)
+- Install dependencies
+  "jekyll-paginate"
+  "jekyll-feed"
+  "jekyll-seo-tag"
+
+- bundler install ($bundler install)
+- run jekyll through bundler ($bundler exec jekyll serve)
+
+- add vscode markdown preview : [link](https://marketplace.visualstudio.com/items?itemName=searKing.preview-vscode)
+
+
 # Tale
 
 [![Gem Version](https://badge.fury.io/rb/tale.svg)](https://badge.fury.io/rb/tale)
